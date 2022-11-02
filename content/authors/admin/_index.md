@@ -1,43 +1,44 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Oliver Tom Schürmann
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Oliver Tom
+last_name: Schürmann
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Facilitator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Istituto Marco Ronzani
+    url: https://www.istituto.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include New Work, Collaboration, Systemic Culture and Mindset Change
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Systemic Decision Making
+  - Cooperative Communicaition
+  - Coaching 
+  - Mindset Change
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Cognitive Psychology
+      institution: University of Basel, Max Planck Institute for Human Development
+      year: 2017
+    - course: Systemic Coach and Mediator
+      institution: Istituto Marco Ronzani
+      year: 2020
+    - course: MSc in Economic and Neuro-Psychology
+      institution: University of Basel
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -77,8 +78,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Oliver Tom Schürmann is a cognitive psychologist (PhD), coach, mediator and business consultant at IMR, as well as a lecturer at the Department of Psychology the University of Basel. He is a member of the Association of Psychologists of Basel (PPB), the Federation of Swiss Psychologists (FSP) and the Network for Solution-Oriented Work (nla).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
